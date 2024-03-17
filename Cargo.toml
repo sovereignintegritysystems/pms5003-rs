@@ -1,10 +1,11 @@
 [package]
 description = "PMS5003 air quality sensor interface"
 name = "pms5003"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 license = "Apache-2.0"
 keywords = ["hardware"]
+repository = "https://github.com/shutton/pms5003-rs.git"
 
 [features]
 default = ["aqi"]
